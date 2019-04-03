@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Appetizer",
+    "description": "",
+    "image": null,
+    "startTime": null,
+    "endTime": null,
+    "menuPosition": 1
+  },
+  {
+    "id": 2,
+    "name": "Lunch",
+    "description": "",
+    "image": null,
+    "startTime": null,
+    "endTime": null,
+    "menuPosition": 2
+  },
+  {
+    "id": 3,
+    "name": "Specials",
+    "description": "",
+    "image": null,
+    "startTime": null,
+    "endTime": null,
+    "menuPosition": 3
+  }
+]
